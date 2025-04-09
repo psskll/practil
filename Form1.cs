@@ -42,7 +42,7 @@ namespace iNir
         {
 
         }
-
+       //пустые методы
         private void guna2TextBox6_TextChanged(object sender, EventArgs e)
         {
 
@@ -205,6 +205,7 @@ namespace iNir
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
+           //нет поясняющих коментариев
             string login = guna2TextBox7.Text;
             string password = guna2TextBox5.Text;
             string kod = guna2TextBox9.Text;
